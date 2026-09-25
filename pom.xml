@@ -205,12 +205,12 @@
         <repository>
             <id>openmrs-repo-modules</id>
             <name>OpenMRS Nexus Modules</name>
-            <url>http://mavenrepo.openmrs.org/releases</url>
+            <url>https://mavenrepo.openmrs.org/releases</url>
         </repository>
         <snapshotRepository>
             <id>openmrs-repo-snapshots</id>
             <name>OpenMRS Nexus Snapshots</name>
-            <url>http://mavenrepo.openmrs.org/snapshots</url>
+            <url>https://mavenrepo.openmrs.org/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
