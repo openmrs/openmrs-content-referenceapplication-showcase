@@ -210,7 +210,7 @@
         <snapshotRepository>
             <id>openmrs-repo-snapshots</id>
             <name>OpenMRS Nexus Snapshots</name>
-            <url>http://mavenrepo.openmrs.org/nexus/content/repositories/snapshots</url>
+            <url>http://mavenrepo.openmrs.org/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
