@@ -19,6 +19,9 @@ The contents of a typical Content Package are:
         * An automatic distro Build Helper Tool then fetches the content package's information and extracts the content into the Implementation's distro.properties file.
         * **Dependencies** are especially important here, as the Build Helper Tool will add any dependencies from the Content Package into an Implementation's distro.properties file.
 
+## Important Note on Address Hierarchy
+The address hierarchy files under `configuration/backend_configuration/addresshierarchy/` moved here from the demo package. They do not load: the SDK unpacks them into a package folder, and the address hierarchy module only looks for `addressConfiguration.xml` at the top of `configuration/addresshierarchy/`.
+
 Running Spotless
 ----------------
 This project uses Spotless for code formatting. Spotless is embedded in the build process, so when you run `mvn clean package`, Spotless will automatically format your code according to the project's style guidelines.
