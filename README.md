@@ -20,7 +20,7 @@ The contents of a typical Content Package are:
         * **Dependencies** are especially important here, as the Build Helper Tool will add any dependencies from the Content Package into an Implementation's distro.properties file.
 
 ## Important Note on Address Hierarchy
-Please note that the address hierarchy configuration does not load from this package; it is managed separately by core/reference configurations.
+The address hierarchy files under `configuration/backend_configuration/addresshierarchy/` moved here from the demo package. They do not load: the SDK unpacks them into a package folder, and the address hierarchy module only looks for `addressConfiguration.xml` at the top of `configuration/addresshierarchy/`.
 
 Running Spotless
 ----------------
