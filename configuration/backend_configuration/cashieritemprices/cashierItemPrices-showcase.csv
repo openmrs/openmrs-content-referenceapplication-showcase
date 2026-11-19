@@ -1,0 +1,9 @@
+Uuid, Void/Retire, Name, Price, Payment Mode, Stock Item, Billable Service
+0211b843-004a-4dff-bb22-47a376e2b021,, Antenatal care - Cash, 500.00, 526bf278-ba81-4436-b867-c2f6641d060a,, 44ebd6cd-04ad-4eba-8ce1-0de4564bfd17
+ef37b244-de1e-4d1a-a96c-ce2ac53047bb,, Antenatal care - Bank transfer, 500.00, 2b1b9aae-5d35-43dd-9214-3fd370fd7737,, 44ebd6cd-04ad-4eba-8ce1-0de4564bfd17
+bac74104-3a90-478a-aedd-9256df8dabd9,, Orthopedic Service - Cash, 2000.00, 526bf278-ba81-4436-b867-c2f6641d060a,, a0f7d8a1-4fa2-418c-aa8a-9b358f43d605
+74e70ae5-7b2c-499b-a9ca-53acbc2f4d23,, Orthopedic Service - Bank transfer, 2000.00, 2b1b9aae-5d35-43dd-9214-3fd370fd7737,, a0f7d8a1-4fa2-418c-aa8a-9b358f43d605
+62c153ba-a44b-4ca0-9db5-35988296c866,, Nutrition counseling - Cash, 300.00, 526bf278-ba81-4436-b867-c2f6641d060a,, 16435ab4-27c3-4d91-b21e-52819bd654d8
+7851dadd-c9dd-4b99-842a-e965e7cebe17,, Nutrition counseling - Bank transfer, 300.00, 2b1b9aae-5d35-43dd-9214-3fd370fd7737,, 16435ab4-27c3-4d91-b21e-52819bd654d8
+d2dfe590-0c3e-4904-a50d-b58c50e63272,, OPD consultation - Cash, 1000.00, 526bf278-ba81-4436-b867-c2f6641d060a,, 360fab13-d92b-4a9f-ad4e-0ac223e7f54c
+a4233270-66a3-4b82-9e90-f2bf4755c844,, OPD consultation - Bank transfer, 1000.00, 2b1b9aae-5d35-43dd-9214-3fd370fd7737,, 360fab13-d92b-4a9f-ad4e-0ac223e7f54c
